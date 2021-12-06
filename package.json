@@ -1,0 +1,26 @@
+{
+  "name": "exernodecrashcourse",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaceJohnny/exerNodeCrashCourse.git"
+  },
+  "author": "Jace Johnny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaceJohnny/exerNodeCrashCourse/issues"
+  },
+  "homepage": "https://github.com/JaceJohnny/exerNodeCrashCourse#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
